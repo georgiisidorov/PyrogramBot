@@ -1,0 +1,10 @@
+Чат - t.me/+PUFu2cXS-spiZmI6
+Вылетел с ошибкой
+
+[400 USERNAME_INVALID]: The username is invalid (caused by "contacts.ResolveUsername")Общее количество - 0
+С юзернеймом и без дублей - 0
+Чат - t.me/+PUFu2cXS-spiZmI6
+Вылетел с ошибкой
+
+[400 USERNAME_INVALID]: The username is invalid (caused by "contacts.ResolveUsername")Общее количество - 0
+С юзернеймом и без дублей - 0
